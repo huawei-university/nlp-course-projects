@@ -6,4 +6,4 @@ Projects from students of NLP Course
 |Firm Poster Caption Generation||@kazzand|https://github.com/kazzand/huaweiproject |
 |Chinese-Russian Machine Translation||@RonanenkovN|https://github.com/RomanenkovN/HuaweiNLP |
 |Aspect-Based Sentiment Analysis in German|Identify aspect and document-level polarity of messages in German. It is important for German services providers such as railways.|@DrFirestream|https://github.com/DrFirestream/NLP |
-|Text summarization task in Russian|||https://github.com/alexvishnevskiy/Huawei-project
+|Text Summarization Task in Russian|||https://github.com/alexvishnevskiy/Huawei-project
