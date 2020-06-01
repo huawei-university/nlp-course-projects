@@ -23,3 +23,4 @@ Projects from students of NLP Course
 |Math word problem solver/explainer||@Max Plevako|https://github.com/mplevako/znaiqa |
 |Social networks' posts classification|The problem I am trying to solve is the problem of social networks posts classification. The problem is important to solve because it helps to extract inappropriate content from the network and hide it from users, who are under the age limit. It also helps administrators of social networks to moderate their groups in an automated way. I will be working with the data that I will collect myself from the public resources.|@BorodinDmitriy|https://github.com/BorodinDmitriy/huawei-nlp-course |
 |Clustering learners’ essays on the basis of key words||@Aniezka,@lkoteuka|https://github.com/Aniezka/huawei-nlp-project|
+|Document summarization on government's dataset with BART and PEGASUS||@Greyss|https://github.com/GreySR/huawei-project|
