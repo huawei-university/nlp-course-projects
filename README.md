@@ -25,4 +25,5 @@ Projects from students of NLP Course
 |Clustering learners’ essays on the basis of key words||@Aniezka,@lkoteuka|https://github.com/Aniezka/huawei-nlp-project|
 |Topic modeling with Aspect Extraction using CapsNets for Russian||@e-lderberry|https://gitlab.com/tatiana_sham/topic_modeling|
 |Document summarization on government's dataset with BART and PEGASUS||@Greyss|https://github.com/GreySR/huawei-project|
+|PEGASUS finetuning on Russian sport text broadcasts||@kotik_konstantin |https://github.com/kotikkonstantin/pegasus-in-russian|
 
