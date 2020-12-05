@@ -11,4 +11,4 @@ Projects from the students of Huawei NLP Course current run. Previous projects c
 |Sentiment Analysis and AutoML|The goal is to perform the Sentiment Analysis on the amazon-fine-food-reviews and compare different hyperparameters search engines: hyperopt, BOHB and Optuna |@aazarov|https://github.com/aazarov/NLP_SentimentAnalysis_HyperparametersSearch|
 |English sentiment analysis|I will try to solve common NLP problem related to sentiment analysis. The data is taken from Twitter and needs to be pre-processed, bacause the texts are very raw. Also, since the classes are unbalanced, I will try to apply data augmentation.|@slavkostrov|https://github.com/slavkostrov/project-sentiment-eng|
 |Russian Text Sentiment Transfer|Transforming a sentence to alter its sentiment while preserving the content|@orzhan|https://github.com/orzhan/russian-text-sentiment-transfer
-
+|Topic modeling and classification news on Hebrew| The goal is gathering data and creating a classification model on Hebrew, which is one of the low-resource languages such, and also performing topic modeling|@imvladikon|https://github.com/imvladikon/huawei-nlpcourse-project
